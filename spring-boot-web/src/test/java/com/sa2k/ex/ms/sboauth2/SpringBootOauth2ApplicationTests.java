@@ -1,4 +1,4 @@
-package com.sa2k.ex.springbootoauth2;
+package com.sa2k.ex.ms.sboauth2;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
